@@ -1,0 +1,6 @@
+PODEMOS UTILIZAR ESTE FICHERO PARA ORGANIZAR TAREAS PENDIENTES:
+- Crear pantalla de inicio principal (muestra torneos y enlace a registro)
+- Crear pantalla de inscripción de usuarios piltrafa
+- Crear tabla en BD para usuarios piltrafa y ¿optimizar BD?
+...
+    Podéis añadir aquí lo que os parezca ;-) 
